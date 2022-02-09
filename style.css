@@ -153,6 +153,7 @@
 }
 .img-user22{
 	width:140px;
+	height:180px;
 	padding:5px;
 	background:#c21a0e;
 	box-shadow:0 0 12px rgba(0,0,0,.6);
@@ -238,7 +239,7 @@ p{
 	display:table;
 	padding:10px 15px;
 	text-decoration:none;
-	color:#ffd4fa;
+	color:#a10303;
 	background:white;
 	border-radius:4px;
 	box-shadow:2px 2px #ffd4fa;
