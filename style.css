@@ -8,7 +8,7 @@
 }
 #-main{
 	font-family: 'Indie Flower', cursive;
-	color:#b366e6;
+	color:#c21a0e;
 	width:100%;
 	height:100%;
 	position:relative;
@@ -27,7 +27,7 @@
 	border-radius:4px;
 	background:white;
 	color:#b366e6;
-	box-shadow:2px 2px #fab9f2;
+	box-shadow:2px 2px #c21a0e;
 	position:absolute;
 	top:60px;
 	right:15px
@@ -42,7 +42,7 @@
 	font-size:1.5em;
 	display:inline-block;
 	margin-top:30px
-	color: #faaaf3;
+	color: #c21a0e;
 }
 .-nav{
 	width:30%;
@@ -54,7 +54,7 @@
 	float:left;
 	padding:0 24px;
 	text-decoration:none;
-	color:#fab9f2;
+	color:#c21a0e;
 	border-left:solid 1px white;
 	line-height:18px
 }
@@ -67,8 +67,8 @@
 .-conteudo{
 	width:900px;
 	height:506px;
-	border-top:solid 3px #fab9f2;
-	border-bottom:solid 3px #ffd4fa;
+	border-top:solid 3px #c21a0e;
+	border-bottom:solid 3px #c20f02;
 	background:black;
 	box-shadow:0 0 0 17px white inset;
 	display:table
@@ -102,7 +102,7 @@
 }
 .box-a h4{
 	font-size:3.5em;
-	color:#faaaf3;
+	color:#c21a0e;
 }
 .box-a p{
 	width:100%;
@@ -146,7 +146,7 @@
 .img-user{
 	width:140px;
 	padding:5px;
-	background:#ffd4fa;
+	background:#c21a0e;
 	box-shadow:0 0 12px rgba(0,0,0,.6);
 	transform:rotate(10deg);
 	margin-left:50px
@@ -154,14 +154,14 @@
 .img-user22{
 	width:140px;
 	padding:5px;
-	background:#ffd4fa;
+	background:#c21a0e;
 	box-shadow:0 0 12px rgba(0,0,0,.6);
 	transform:rotate(10deg);
 	margin-left:30px
 }
 .box-b h5{
 	font-size:1.5em;
-	color:#faaaf3;
+	color:#c21a0e;
 }
 .box-b span{
 	font-size:1.5em
@@ -178,26 +178,26 @@ p{
 }
 @keyframes pulse{
 	0%{
-		color:#ffd4fa
+		color:#c21a0e
 }
 	100%{
-		color:#faaaf3;
+		color:white;
 }
 }
 @-moz-keyframes pulse{
 	0%{
-		color:#b366e6
+		color:##c21a0e
 }
 	100%{
-		color:#faaaf3;
+		color:white;
 }
 }
 @-webkit-keyframes pulse{
 	0%{
-		color:##ffd4fa
+		color:#ffd4fa
 }
 	100%{
-		color:#faaaf3;
+		color:white;
 }
 }
 #-footer{
@@ -241,7 +241,7 @@ p{
 	color:#ffd4fa;
 	background:white;
 	border-radius:4px;
-	box-shadow:2px 2px #b366e6;
+	box-shadow:2px 2px #ffd4fa;
 	margin-left:165px
 }
 #page-video:target{
